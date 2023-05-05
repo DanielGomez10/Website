@@ -1,0 +1,19 @@
+
+html{
+    background: #D0E4F5 url("200.webp") repeat scroll 50% 50%;
+}
+h1{
+    color: #e6d10f;
+}
+
+#earth{
+    width:500px;
+}
+
+#flashing{
+    width: 300px;
+}
+h1{
+    text-align: center;
+    font-size: 200px;
+}
